@@ -11,7 +11,7 @@ After Pushing the chest button
 
 After using cutting feature 
 
-![image](https://github.com/hagerashraf/final-project-VTK/assets/61332559/9c8cb263-50da-4c73-9945-6bae890f3134)
+![image](https://github.com/hagerashraf/final-project-VTK/assets/61332559/b9d37977-4a79-483f-9e2c-e486fa24a330)
 
 After disabling the visibility feature
 
